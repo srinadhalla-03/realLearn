@@ -1,0 +1,7 @@
+{
+  "name": "RealLearn",
+  "description": "Understand any concept through real-world examples, interactive visual analogies, and step-by-step simulations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
